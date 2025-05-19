@@ -5,3 +5,4 @@ Notes and usage details for lazy-mcp.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
