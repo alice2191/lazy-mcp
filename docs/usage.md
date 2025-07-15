@@ -8,3 +8,4 @@ Notes and usage details for lazy-mcp.
 - clarify the setup steps
 - clarify the setup steps
 - link the usage section
+- fix a small wording issue
